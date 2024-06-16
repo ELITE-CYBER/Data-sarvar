@@ -5,4 +5,4 @@ def met4():
     
     return add_ua+main
 
-print(met4)
+print(met4())
