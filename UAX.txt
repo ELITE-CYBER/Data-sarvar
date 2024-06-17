@@ -1,1 +1,20 @@
-[FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/5.0 (Linux; Android 12; Nokia G100 Build/SKQ1.220119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.2 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia T10 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.152 Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; Android 13; Nokia T10 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.152 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; Android 12; N155DL Build/SKQ1.220213.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/427.0.0.31.63;]
+Mozilla/5.0 (Android; Android 5.0; Nokia 1100 LTE Build/GRK39F) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/49.0.2994.357 Mobile Safari/603.2	Android 5	Chrome Mobile 49	1100
+Mozilla/5.0 (Linux; Android 13; Nokia T21 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.152 Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; Android 12; N155DL Build/SKQ1.220213.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.152 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; Android 12; N155DL Build/SKQ1.220213.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.68 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/465.0.0.60.83;]
+Mozilla/5.0 (Linux; Android 12; N155DL Build/SKQ1.220213.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.152 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;] [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; U; Android 4.3.1; Nokia 3310 Build/IMM76D) AppleWebKit/536.25 (KHTML, like Gecko) Chrome/49.0.1014.282 Mobile Safari/600.4
+Mozilla/5.0 (Linux; Android 5.0; Nokia 1100 4G Build/GRK39F) AppleWebKit/603.25 (KHTML, like Gecko) Chrome/51.0.1054.276 Mobile Safari/601.3
+Mozilla/5.0 (Linux; Android 5.0; Nokia 1000 LTE Build/GRK39F) AppleWebKit/600.34 (KHTML, like Gecko) Chrome/48.0.1613.349 Mobile Safari/603.8
+Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3115 Build/IMM76D) AppleWebKit/537.40 (KHTML, like Gecko) Chrome/54.0.2189.193 Mobile Safari/537.6
+Mozilla/5.0 (Linux; Android 12; N155DL Build/SKQ1.220213.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/467.1.0.52.83;]
+Mozilla/5.0 (Linux; U; Android 4.4; Nokia 3110 Build/IMM76D) AppleWebKit/536.38 (KHTML, like Gecko) Chrome/55.0.3541.165 Mobile Safari/537.2
+Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 LTE Build/GRK39F) AppleWebKit/600.11 (KHTML, like Gecko) Chrome/49.0.3125.295 Mobile Safari/533.6
+Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3215 Build/IMM76D) AppleWebKit/601.44 (KHTML, like Gecko) Chrome/51.0.2913.262 Mobile Safari/602.8
+Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3310 Build/IMM76D) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/51.0.3937.313 Mobile Safari/534.1
+Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 4G Build/GRK39F) AppleWebKit/603.4 (KHTML, like Gecko) Chrome/54.0.1354.237 Mobile Safari/600.1
+Mozilla/5.0 (Linux; Android 13; Nokia T10 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/466.1.0.57.85;]
